@@ -41,8 +41,9 @@
     </a><a>  
         <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
         </a><a>  
-            <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="FireBase" width="40" height="40" />
-            </a><a>  
+<!--             <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="FireBase" width="40" height="40" />
+            </a> -->
+    <a>  
                 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" alt="Flutter" width="40" height="40" />
                 </a><a>  
                     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width="40" height="40" />
@@ -53,8 +54,9 @@
                             </a><a>  
                                 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
                                 </a><a>  
-                                    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="JAVA" width="40" height="40" />
-                                    </a><a>  
+<!--                                     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="JAVA" width="40" height="40" />
+                                    </a> -->
+    <a>  
                                         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
                                         </a><a>     
                                             <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="Jquery" width="40" height="40" />
