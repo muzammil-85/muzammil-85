@@ -59,7 +59,7 @@
                                         </a><a>     
                                             <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="Jquery" width="40" height="40" />
                                              </a> 
-                                                <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="django" width="40" height="40" />
+                                                <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="40" height="40" />
                                              </a><a>     
                                                  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
                                                  </a><a>      
