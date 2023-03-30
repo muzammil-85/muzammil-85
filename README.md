@@ -78,10 +78,7 @@
                                                                     <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40" /> 
                                                                          </p></a>
                                                                          <br>
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=muzammil-85&show_icons=true&locale=en&layout=compact"
-        alt="muzammil-85" /></p>
+
 <br>
 <!-- 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muzammil-85&show_icons=true&locale=en"
