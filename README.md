@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Muzammil k</h1>
-<h3 align="center">Student at CUIET, Kohinoor🌟.</h3>
+<h3 align="center">B.Tech student in Information Technology at Calicut University Institute of Engineering and Technology, Kohinoor🌟.</h3>
 
 <br>
 
@@ -11,8 +11,8 @@
 <p><img align="right" src="https://github.com/muzammil-85/muzammil-85/blob/master/ts1.gif" alt="muzammil-85" /></p>
 
 
-- 🌱 I’m currently learning  Flutter
-- 📫 How to reach me **muzukondeth85@gmail.com**
+- 🌱 I’m currently learning Neural Network
+- 📫 How to reach me **connect.muzu@gmail.com**
 - ⚡ Fun fact :- food is the reason to live.
 <br>
 
