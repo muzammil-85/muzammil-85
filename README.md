@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Muzammil k</h1>
-<h3 align="center">B.Tech student in Information Technology at Calicut University Institute of Engineering and Technology, Kohinoor🌟.</h3>
+<h3 align="center">B.Tech graduate in Information Technology from Calicut University Institute of Engineering and Technology, Kohinoor🌟.</h3>
 
 <br>
 
